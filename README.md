@@ -1,3 +1,3 @@
 # delta-demo
-This is a practise for myself!!
-I did it again..
+This is a practise for myself & myself!!
+I did it again...
